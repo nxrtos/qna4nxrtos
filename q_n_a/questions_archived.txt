@@ -1,0 +1,25 @@
+#	question brought and listed
+
+- What does this project do?
+- What are the pain points that you try to address?
+- What are the business benefits if using your RTOS? 
+
+	More efficient? (in what way)
+	More cost effective?
+	Ease of use?
+
+- Who would care? 
+	IoT developer?
+	IoT device maker? (example: company's name)
+	IoT platform provider? (examples Azure? etc?)
+
+- what are they using today? Why is yours different?
+
+- what are barriers for people to adopt your software?
+	- training?
+	- support?
+	- community base?
+
+- Is this software complete and ready to go-to-market? or still in development? What are the milestones and timelines?
+
+- How does your license scheme work?
